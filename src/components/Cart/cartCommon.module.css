@@ -1,0 +1,24 @@
+.sideBarHeader {
+  height: 4rem;
+  padding: 1rem;
+  font-size: 1.2rem;
+}
+.sideheaderBackground {
+  background-color: aquamarine;
+}
+
+.setMainPage {
+  padding: 1rem;
+}
+
+.setHeaderMargin {
+  letter-spacing: .1rem;
+  font-weight: 350;
+  margin-right: -10px;
+  margin-left: -10px;
+  margin-bottom: 1rem;
+}
+
+
+
+  
