@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-deploy-enthalpy/static/css/main.54b2c988.css",
+    "main.js": "/react-deploy-enthalpy/static/js/main.02e886d0.js",
+    "index.html": "/react-deploy-enthalpy/index.html",
+    "main.54b2c988.css.map": "/react-deploy-enthalpy/static/css/main.54b2c988.css.map",
+    "main.02e886d0.js.map": "/react-deploy-enthalpy/static/js/main.02e886d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54b2c988.css",
+    "static/js/main.02e886d0.js"
+  ]
+}
