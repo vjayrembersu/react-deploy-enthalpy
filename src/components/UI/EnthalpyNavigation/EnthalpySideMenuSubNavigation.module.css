@@ -1,0 +1,26 @@
+.sideBarLinks {
+  padding: 0;
+  padding-top: 0.5rem;
+  width:24.5rem;
+}
+
+.sideBarLinks a {
+  color: #0d6efd;
+  text-decoration: none;
+}
+
+.sideBarLinks a:hover,
+.sideBarLinks a:active,
+.sideBarLinks a.active {
+  color: #0000e6;
+  padding-bottom: 0.25rem;
+  border-bottom: 4px solid red;
+}
+.headTotoe a {
+  color: red;
+}
+/* .sideBarLinks {
+  height: 2.5rem;
+  padding: .5rem;
+  font-size: 1rem;
+} */
